@@ -1,4 +1,4 @@
-See issue _link here_ for details.
+See issue https://github.com/webpack/webpack/issues/13792 for bug details.
 
 ## Replication Steps
 
